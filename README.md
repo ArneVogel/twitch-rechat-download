@@ -1,5 +1,5 @@
 # twitch_rechat_download
-Small script for downloading rechat from a twitch vod.
+Small script written in go for downloading the chat from a twitch vod.
 
 "go get github.com/ArneVogel/twitch_rechat_download/"
 and
